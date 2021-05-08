@@ -1,0 +1,39 @@
+body{
+    background-image: url(sky-828648_1920.jpg);
+}
+nav a{
+    text-decoration: none;
+    display: inline-block;
+    color: white;
+    margin-left: 200px;
+}
+header{
+    background-color: black;
+}
+nav h2{
+    color: white;
+    padding-top: 40px;
+    margin-top: -20px;
+    font-family:  Harrington;
+}
+h1{
+    color: white;
+    font-size: bold;
+}
+.connexion{
+    text-align: center;
+}
+.connex2{
+    color: white;
+}
+.connex1{
+    border-radius: 100px;
+}
+.envoyer{
+    border-radius: 20px;
+    font-size: bold;
+}
+.envoyer:hover{
+    background-color: rgb(13, 24, 58);
+    color: white;
+}
